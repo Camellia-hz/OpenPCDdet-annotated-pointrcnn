@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="nathan@mmdet" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;*.so;*.txt" remoteFilesAllowedToDisappearOnAutoupload="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="catt@172.168.8.45:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nathan@mmdet">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/OpenPCDet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/OpenPCDet/build" />
+            <excludedPath path="/OpenPCDet/checkpoints" />
+            <excludedPath path="/OpenPCDet/README.md" />
+            <excludedPath path="/OpenPCDet/.gitignore" />
+            <excludedPath path="/OpenPCDet/LICENSE" />
+            <excludedPath path="/OpenPCDet/pcdet.egg-info" />
+            <excludedPath path="/OpenPCDet/output" />
+            <excludedPath path="/OpenPCDet/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
